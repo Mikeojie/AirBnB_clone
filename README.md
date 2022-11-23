@@ -60,7 +60,7 @@ This repository contains several packages that include the various models that w
 
 ### Installation
 ```
-git clone https://github.com/NomatheLuckyOne/AirBnB-clone.git
+git clone https://github.com/Mikeojie/AirBnB-clone.git
 ```
 ---
 
@@ -139,6 +139,4 @@ $
 
 ### Authors
 
-Nomathamsanqa Mathebula  - [Github: @NomatheluckyOne](https://github.com/NomatheLuckyOne)
-
-Emmanuel Solomon - [Github: @Kis123mas](https://github.com/Kis123mas)
+Okojie Micheal - [Github: @Mikeojie](https://github.com/Mikeojie)
